@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with Me: </h3>
 
-<p align="center">Discord: https://discord.gg/8rXWHNMkXV <br>Post: https://nekosunevr.co.uk/vrclogger-the-rebirth-of-vrcguardian-angel-vrcga/</p>
+<p align="center">Discord: https://discord.gg/8rXWHNMkXV <br>Post: https://blog.nekosunevr.co.uk/vrclogger-the-rebirth-of-vrcguardian-angel-vrcga/</p>
 
 <h3 align="center">💖 Support Me:</h3> 
 
